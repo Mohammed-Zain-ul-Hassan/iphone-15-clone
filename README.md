@@ -1,6 +1,6 @@
 # 📱 iPhone 15 Pro Clone
 
-# 🌐 [Live Demo](https://iphone-15-clone-nine.vercel.app/)
+🌐 [Live Demo](https://iphone-15-clone-nine.vercel.app/)
 
 A stunning clone of the iPhone 15 Pro webpage, built with **React**, **JavaScript**, **GSAP**, and **Three.js**. This project includes cutting-edge animations, 3D models, and a sleek, modern UI. Sentry is integrated to ensure a smooth, error-free experience.
 
